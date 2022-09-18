@@ -9,7 +9,7 @@
 1. Установите [Docker Desktop on Windows](https://docs.docker.com/desktop/install/windows-install/).
 2. Запустите `Docker Desktop` и добейтесь его работоспособности.
 3. Склонируйте текущий репозиторий на компьютер:
-> `$ git clone SOBD2022`
+> `$ git clone https://github.com/kpdvstu/SOBD2022.git`
 4. Скачайте датасет, расположенный по адресу https://drive.google.com/file/d/1yJKqx4mhvbpwKPyJaNUq7J9cGy7wuqi5/view?usp=sharing. Распакуйте его и поместите файл `endomondoHR.json` в директорию `data` проекта (если директория отсутствует, создайте ее).
 5. Откройте `Windows PowerShell` и перейдите в директорию с проектом:
 > `$ cd SOBD2022`
